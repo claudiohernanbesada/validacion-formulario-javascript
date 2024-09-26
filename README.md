@@ -2,7 +2,7 @@
 Este repositorio contiene un formulario de registro, el cual posee validaciones realizada en HTML, CSS y JS
 
 ## Demo
-Ingresando a la url: https://cbe-formulario-validacion-javascript.netlify.app/ podrás probar el funcionamiento del formulario y su validación.
+Ingresando a la url: https://cbe-formulario-validation-javascript.netlify.app/ podrás probar el funcionamiento del formulario y su validación.
 
 ## Uso
 
