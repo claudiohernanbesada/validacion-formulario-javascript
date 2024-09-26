@@ -1,6 +1,9 @@
 # Formulario de Registro validado con JavaScript
 Este repositorio contiene un formulario de registro, el cual posee validaciones realizada en HTML, CSS y JS
 
+## Demo
+Ingresando a la url: https://cbe-formulario-validacion-javascript.netlify.app/ podrás probar el funcionamiento del formulario y su validación.
+
 ## Uso
 
 1.  Clone el repositorio haciendo `git clone https://github.com/claudiohernanbesada/validacion-formulario-javascript.git`
